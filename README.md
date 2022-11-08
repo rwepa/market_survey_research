@@ -21,6 +21,8 @@ https://github.com/rwepa/market_survey_research/blob/main/spss_market_survey_res
 
 # spss_datasets
 
+https://github.com/rwepa/market_survey_research/tree/main/spss_datasets
+
 + 未購原因.xlsx
 
 + 品牌偏好原因.sav
