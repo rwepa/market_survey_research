@@ -16,6 +16,9 @@
 
 4. 平均數檢定與變異數分析
 
+# day 1
+https://github.com/rwepa/market_survey_research/blob/main/spss_market_survey_research_2022.11.09.pdf
+
 # spss_datasets
 
 + 未購原因.xlsx
