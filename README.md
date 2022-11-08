@@ -32,6 +32,6 @@
 
 + RWEPA: http://rwepa.blogspot.com/
 
-+ 楊世瑩, SPSS 26統計分析嚴選教材(適用SPSS 26~22), 碁峰, 2020.
++ 楊世瑩, SPSS 26統計分析嚴選教材(適用SPSS 26~22), 碁峰, 2020. http://books.gotop.com.tw/e_AEM002500
 
 + 線上說明: https://www.ibm.com/docs/zh-tw/db2woc?topic=spss-tutorial-analyzing-statistics
