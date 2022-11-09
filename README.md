@@ -9,15 +9,14 @@
 2. 敘述統計分析
 
     補充篇：圖表建置器
+    
+https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
 
 + Day 2
 
 3. 卡方檢定應用
 
 4. 平均數檢定與變異數分析
-
-# day 1
-https://github.com/rwepa/market_survey_research/blob/main/spss_market_survey_research_2022.11.09.pdf
 
 # spss_datasets
 
