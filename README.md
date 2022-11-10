@@ -30,6 +30,8 @@ https://github.com/rwepa/market_survey_research/tree/main/spss_datasets
 
 + 品牌偏好原因.sav
 
++ 星巴克.sav
+
 + 啤酒廠牌.sav
 
 + 啤酒廠牌.spv
