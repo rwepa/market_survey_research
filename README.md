@@ -10,7 +10,7 @@
 
     補充篇：圖表建置器
     
-https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
+PDF講義：https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
 
 + Day 2
 
