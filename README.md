@@ -1,4 +1,4 @@
-# SPSS 市場調查與研究(2022.11.9)
+# SPSS 市場調查與研究(2022.11.9, 11.16)
 
 # 大綱:
 
@@ -17,6 +17,10 @@ https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.
 3. 卡方檢定應用
 
 4. 平均數檢定與變異數分析
+
+    補充篇：R平均數檢定
+
+    補充篇：Python平均數檢定
 
 # spss_datasets
 
