@@ -36,6 +36,8 @@ https://github.com/rwepa/market_survey_research/tree/main/spss_datasets
 
 + 啤酒廠牌.spv
 
++ 單一母體平均數檢定.sav
+
 + 學生成績.sav
 
 # 參考資料
