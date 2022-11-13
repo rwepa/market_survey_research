@@ -17,4 +17,5 @@ score$成績
 mytest <- t.test(x = score$成績, alternative = c("two.sided"), mu = 70)
 mytest
 mytest$p.value # 0.01334634
+# p.value <= 0.05, Reject H0 and accept H1.
 # end
