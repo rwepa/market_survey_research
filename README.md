@@ -24,6 +24,10 @@ PDF講義(Day 1)：https://github.com/rwepa/market_survey_research/blob/main/sps
     
 PDF講義(Day 2)：https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.16.pdf
 
+# 平均數檢定.R
+
+https://github.com/rwepa/market_survey_research/blob/main/%E5%B9%B3%E5%9D%87%E6%95%B8%E6%AA%A2%E5%AE%9A.R
+
 # spss_datasets
 
 https://github.com/rwepa/market_survey_research/tree/main/spss_datasets
