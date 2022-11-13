@@ -10,7 +10,7 @@
 
     補充篇：圖表建置器
     
-PDF講義：https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
+PDF講義(Day 1)：https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
 
 + Day 2
 
@@ -21,6 +21,8 @@ PDF講義：https://github.com/rwepa/market_survey_research/blob/main/spss_tutor
     補充篇：R平均數檢定
 
     補充篇：Python平均數檢定
+    
+PDF講義(Day 2)：https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.16.pdf
 
 # spss_datasets
 
