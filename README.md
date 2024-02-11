@@ -1,12 +1,12 @@
 # 工程統計(二) 2024.02.20
 
-+ SPSS軟體簡介
++ SPSS軟體簡介 (P.17)
 
-+ 敘述統計分析
++ 敘述統計分析 (P.38)
 
 + 圖表建置器 (P.58)
 
-+ [下載] https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
++ 下載: https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
 
 
 # SPSS 市場調查與研究(2022.11.9, 11.16)
