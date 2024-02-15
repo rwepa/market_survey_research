@@ -9,7 +9,7 @@ https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.
 https://github.com/rwepa/market_survey_research/blob/main/VMwareHorizonClient_SPSS.pdf
 
 
-# SPSS 市場調查與研究(2022.11.9, 11.16)
+# SPSS 市場調查與研究 2022.11.9 and 11.16
 
 # 大綱:
 
