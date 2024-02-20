@@ -1,12 +1,14 @@
 # 工程統計(二) 2024.02.20
 
-+ VMware Horizon Client – SPSS
++ 2024.02.20-VMware Horizon Client – SPSS
 
-https://github.com/rwepa/market_survey_research/blob/main/VMwareHorizonClient_SPSS.pdf
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/VMwareHorizonClient_SPSS.pdf
 
-+ SPSS 市場調查與研究 (1).SPSS軟體簡介 (P.17) (2).敘述統計分析 (P.38) (3).圖表建置器 (P.58)
++ 2024.02.27-SPSS 市場調查與研究
 
-https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
+
+    + (1).SPSS軟體簡介 (P.17) (2).敘述統計分析 (P.38) (3).圖表建置器 (P.58)
 
 # SPSS 市場調查與研究 2022.11.9 and 11.16
 
