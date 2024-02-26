@@ -6,10 +6,9 @@
  
     + 使用 VMware Horizon Client 連線至遠端主機並執行 SPSS 運算
 
-+ 2024.02.27-SPSS 市場調查與研究
++ 2024.02.27-工程統計-SPSS敘述統計分析
 
-    + 下載: https://github.com/rwepa/market_survey_research/blob/main/spss_tutorial_2022.11.09.pdf
-
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_2024.02.27_descriptive_statistics.pdf
     + 1.工程統計暨資料分析簡介
     + 2.SPSS軟體簡介
     + 3.敘述統計分析
