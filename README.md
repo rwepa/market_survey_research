@@ -17,10 +17,10 @@
 
 + 2024.03.05-研究方法與開放資料
 
-+ 下載: https://github.com/rwepa/market_survey_research/blob/main/es_2024.03.05_research_opendata.pdf
-+ 期末報告: https://github.com/rwepa/market_survey_research/blob/main/es_term_paper_id_name.docx
-+ 1.研究方法
-+ 2.開放資料應用
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_2024.03.05_research_opendata.pdf
+    + 期末報告: https://github.com/rwepa/market_survey_research/blob/main/es_term_paper_id_name.docx
+    + 1.研究方法
+    + 2.開放資料應用
 
 # SPSS 市場調查與研究 2022.11.9 and 11.16
 
