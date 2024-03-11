@@ -21,6 +21,14 @@
     + 期末報告: https://github.com/rwepa/market_survey_research/blob/main/es_term_paper_id_name.docx
     + 1.研究方法
     + 2.開放資料應用
+ 
++ 2024.3.12-平均數估計 (Mean Estimation)
+
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_2024.03.12_mean_estimation.pdf
+    + 機率分配查表: https://github.com/rwepa/DataDemo/blob/master/prob.pdf
+    + 1.隨機變數
+    + 2.機率分配
+    + 3.平均數估計
 
 # SPSS 市場調查與研究 2022.11.9 and 11.16
 
