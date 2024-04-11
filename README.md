@@ -29,6 +29,9 @@
     + 1.隨機變數
     + 2.機率分配
     + 3.平均數估計
+ 
++ 2024.3.12 p-value
+![image](https://github.com/rwepa/market_survey_research/blob/main/imgs/es_05_p_value.png)
 
 # SPSS 市場調查與研究 2022.11.9 and 11.16
 
