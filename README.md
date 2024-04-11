@@ -33,6 +33,8 @@
 + 2024.3.12 p-value
 ![image](https://github.com/rwepa/market_survey_research/blob/main/imgs/p_value_plot.png)
 
+R 程式碼: https://github.com/rwepa/market_survey_research/blob/main/p_value_plot.R
+
 # SPSS 市場調查與研究 2022.11.9 and 11.16
 
 # 大綱:
