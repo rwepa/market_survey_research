@@ -2,9 +2,9 @@
 
 + 2024.02.20-VMware Horizon Client – SPSS
 
-    + 下載: https://github.com/rwepa/market_survey_research/blob/main/VMwareHorizonClient_SPSS.pdf
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_01_VMwareHorizonClient_SPSS.pdf
  
-    + 使用 VMware Horizon Client 連線至遠端主機並執行 SPSS 運算
+    + 主題: 使用 VMware Horizon Client 連線至遠端主機並執行 SPSS 運算
 
 + 2024.02.27-SPSS敘述統計分析
 
