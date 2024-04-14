@@ -8,7 +8,7 @@
 
 + 2024.02.27-SPSS敘述統計分析
 
-    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_2024.02.27_descriptive_statistics.pdf
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_02_descriptive_statistics.pdf
     + 1.工程統計暨資料分析簡介
     + 2.SPSS軟體簡介
     + 3.敘述統計分析
@@ -17,20 +17,28 @@
 
 + 2024.03.05-研究方法與開放資料
 
-    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_2024.03.05_research_opendata.pdf
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_03_research_opendata.pdf
     + 期末報告: https://github.com/rwepa/market_survey_research/blob/main/es_term_paper_id_name.docx
     + 1.研究方法
     + 2.開放資料應用
  
 + 2024.3.12-平均數估計 (Mean Estimation)
 
-    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_2024.03.12_mean_estimation.pdf
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_04_mean_estimation.pdf
     + 機率分配查表: https://github.com/rwepa/DataDemo/blob/master/prob.pdf
     + 1.隨機變數
     + 2.機率分配
     + 3.平均數估計
- 
-+ 2024.3.12 p-value
+
+ + 2024.3.26-平均數檢定 (Hypothesis Test for Mean)
+
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_05_hypothesis_test_mean.pdf
+    + 1.平均數檢定
+    + 2.SPSS-單⼀樣本T檢定
+    + 3.SPSS-獨立樣本T檢定
+    + 4.SPSS-成對樣本T檢定
+
++ 2024.04.09 p-value
 ![image](https://github.com/rwepa/market_survey_research/blob/main/imgs/p_value_plot.png)
 
 R 程式碼: https://github.com/rwepa/market_survey_research/blob/main/p_value_plot.R
