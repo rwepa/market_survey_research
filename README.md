@@ -41,13 +41,13 @@
 + 2024.04.09 p-value
 ![image](https://github.com/rwepa/market_survey_research/blob/main/imgs/p_value_plot.png)
 
-R 程式碼: https://github.com/rwepa/market_survey_research/blob/main/p_value_plot.R
+    + R 程式碼: https://github.com/rwepa/market_survey_research/blob/main/p_value_plot.R
 
 + 2024.4.30-變異數分析(ANOVA)
 
     + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_06_anova.pdf
  
-    + 資料下載: 
+    + 資料下載: https://github.com/rwepa/market_survey_research/blob/main/iron.csv
     + 1.F分配SPSS
     + 2.變異數分析簡介
     + 3.單因子變異數分析
