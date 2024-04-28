@@ -43,6 +43,19 @@
 
 R 程式碼: https://github.com/rwepa/market_survey_research/blob/main/p_value_plot.R
 
++ 2024.4.30-變異數分析(ANOVA)
+
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_06_anova.pdf
+ 
+    + 資料下載: 
+    + 1.F分配SPSS
+    + 2.變異數分析簡介
+    + 3.單因子變異數分析
+    + 4.二因子變異數分析
+    + 5.SPSS變異數分析
+    + 6.Post Hoc檢定
+# END
+
 # SPSS 市場調查與研究 2022.11.9 and 11.16
 
 # 大綱:
