@@ -57,14 +57,23 @@
  
 + 2024.5.21-相關 (Correlation)
 
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_07_correlation.pdf
     + 1.相關簡介
     + 2.雙變數的相關係數
     + 3.繪製散佈圖
     + 4.偏相關
 
++ 2024.5.28-迴歸 (Regression)
 
+    + 下載: https://github.com/rwepa/market_survey_research/blob/main/es_08_regression.pdf
+    + 1.線性迴歸簡介
+    + 2.迴歸分析與繪圖
+    + 3.複迴歸
+    + 4.補充篇：R demo
+    + 5.課程回顧
 
 # ★END★
+
 
 # SPSS 市場調查與研究 2022.11.9 and 11.16
 
